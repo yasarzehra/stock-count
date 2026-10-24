@@ -5,3 +5,4 @@ Tape 60
 Labels 300
 Glue 25
 Scissors 40
+Envelopes 500
