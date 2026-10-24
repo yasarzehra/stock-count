@@ -7,3 +7,4 @@ Glue 25
 Scissors 40
 Envelopes 500
 Rubber bands 900
+Markers 75
