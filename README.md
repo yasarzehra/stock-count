@@ -12,3 +12,20 @@ the stock count of Selin's warehouse: every product, with its number.
 3. commit, push, and open a pull request.
 4. somebody else reviews it before it is merged.
 
+## who does what
+
+| who  | what                                 |
+| -----| --------------------------------     |
+| Selin| owns the count, merges pull requests |
+| Kaan | counts, reviews pull requests        |
+
+## read the history
+
+Every line of the count has a commit behind it: 
+
+```
+git log  --oneline count.txt
+git blame count.txt
+```
+
+ 
