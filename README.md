@@ -15,9 +15,9 @@ the stock count of Selin's warehouse: every product, with its number.
 ## who does what
 
 | who  | what                                 |
-| .....| .............                        |
+| -----| --------------------------------     |
 | Selin| owns the count, merges pull requests |
-| Kann | counts, reviews pull requests        |
+| Kaan | counts, reviews pull requests        |
 
 ## read the history
 
