@@ -29,3 +29,6 @@ git blame count.txt
 ```
 
  
+## Decisions
+
+- [0001 - The count is a plain text file](docs/adr/0001-plain-text-count.md)
