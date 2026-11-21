@@ -4,7 +4,7 @@ the stock count of Selin's warehouse: every product, with its number.
 ## the count 
 - the count lives in `count.txt`.
 - one product per line: a name, one space, a number.
-- new products go at the end of the file.
+-  Products are in alphabetical order: a new product goes to its place, not to the end.
 
 ## how to change it
 1. open an issue.
