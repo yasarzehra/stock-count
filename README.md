@@ -12,6 +12,8 @@ the stock count of Selin's warehouse: every product, with its number.
 3. commit, push, and open a pull request.
 4. somebody else reviews it before it is merged.
 
+The same steps as a diagram: [docs/workflow.md](docs/workflow.md).
+
 ## who does what
 
 | who  | what                                 |
