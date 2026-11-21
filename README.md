@@ -34,3 +34,5 @@ git blame count.txt
 ## Decisions
 
 - [0001 - The count is a plain text file](docs/adr/0001-plain-text-count.md)
+
+The `docs/` folder contains project documentation and Architecture Decision Records (ADRs) under `docs/adr/`. To add a new decision record, create a numbered Markdown file in `docs/adr/` (e.g., `0002-your-decision.md`) and link it in the list above.
